@@ -1,3 +1,8 @@
 <resources>
     <string name="app_name">IMC</string>
+    <string name="texto_tag_peso">Proporciones el peso en  kilogramos:</string>
+    <string name="texto_tag_estatura">Proporciones la estatura en  metros:</string>
+    <string name="texto_boton_calcular">Calcular</string>
+    <string name="texto_boton_limpiar">Limpiar</string>
+    <string name="texto_tag_resultado">El Indice de Masa Corporal (IMC) es</string>
 </resources>
